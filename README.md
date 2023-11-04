@@ -10,7 +10,7 @@ Additionally, individual users may typically prefer to explore the personalized 
 Therefore, this paper presents a novel constrained multi-objective reinforcement learning algorithm for personalized end-to-end robotic control with continuous actions, allowing a trained single model to approximate the Pareto optimal policies for any user-specified preferences.
 The proposed approach is formulated as a constrained multi-objective Markov decision process, incorporating a nonlinear constraint design to facilitate the agent in learning optimal policies that align with specified user preferences across the entire preference space.
 Meanwhile, a comprehensive index based on hypervolume and entropy is presented to measure the convergence, diversity and evenness of the learned control policies.
-The proposed scheme is evaluated on nine multi-objective end-to-end robotic control tasks with continuous action space, and its effectiveness is demonstrated in comparison with the competitive baselines, including classical and state-of-the-art algorithms.
+The proposed scheme is evaluated on nine multi-objective end-to-end robotic control tasks with continuous action space.
 
 ### MuJoCo - Advanced Simulator for Robotics
 <img src="figures/env_.jpg" alt="ENV_" width="800" height="200">
