@@ -17,7 +17,7 @@ The proposed scheme is evaluated on nine multi-objective end-to-end robotic cont
 (a) MO-Swimmer; (b) MO-Hopper; (c) MO-Walker2d; (d) MO-HalfCheetah; (e) MO-Ant.
 
 ###  Basic Description of Multi-Objective MuJoCo Environments
-<img src="figures/env.png" alt="ENV" width="1000" height="600">
+<img src="figures/env.png" alt="ENV" width="800" height="500">
 
 
 
