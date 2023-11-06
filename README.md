@@ -34,7 +34,7 @@ The required packages can be installed using:
 
  ### Run
  There are nine multi-objective robotic environments, namely MO-Swimmer-v2, MO-Hopper-v2, MO-Walker2d-v2, MO-HalfCheetah-v2, MO-Ant-v2, MO-Swimmer-v3, MO- Hopper-v3, MO-Walker2d-v3, and MO-Ant-v3. 
- For example, Users can leverage the following command to run the code in the terminal and train the Ant robot under two conflicting objectives:
+ For example, users can leverage the following command to run the code in the terminal and train the Ant robot under two conflicting objectives:
 
 	python train_2d.py --env_name MO-Ant-v2
  Users can also use the following command to run the code in the terminal and train the Ant robot under three conflicting objectives:
